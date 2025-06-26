@@ -14,3 +14,16 @@ https://chanwoo23.tistory.com/1
 | **Template Engine** | ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-007396?style=flat) |
 
 
+## 🧰 협업 & 기획 & 문서 도구
+
+| 도구 종류     | 사용 도구 |
+|---------------|-----------|
+| **버전 관리**    | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| **디자인 협업**  | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
+| **업무 관리**    | ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white) |
+| **문서 정리**    | ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) |
+| **커뮤니케이션** | ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white) |
+| **API 문서화**   | ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black) |
+
+
+
